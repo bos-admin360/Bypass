@@ -1,5 +1,5 @@
 {
-  "name": "Discord-bot-for-SMSBypassBot",
+  "name": "gangster-bot",
   "version": "1.0.0",
   "description": "",
   "main": "bot.js",
@@ -13,6 +13,6 @@
   "scripts": {
     "start": "node bot"
   },
-  "author": "Marine",
+  "author": "white",
   "license": "ISC"
 }

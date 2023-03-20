@@ -1,5 +1,5 @@
 {
-  "name": "SMS-Bypass",
+  "name": "gangster-bot",
   "version": "1.0.0",
   "description": "",
   "main": "api.js",
@@ -7,7 +7,7 @@
     "start": "node api",
     "test": "mocha --timeout 10000"
   },
-  "author": "Marine",
+  "author": "white",
   "dependencies": {
     "body-parser": "^1.19.0",
     "discord-webhook-node": "^1.1.8",
